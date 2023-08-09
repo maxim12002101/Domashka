@@ -1,0 +1,15 @@
+C:\Visual Studio\DomashkaKod\dzC#2\bin\Debug\net7.0\dzC#2.exe
+C:\Visual Studio\DomashkaKod\dzC#2\bin\Debug\net7.0\dzC#2.deps.json
+C:\Visual Studio\DomashkaKod\dzC#2\bin\Debug\net7.0\dzC#2.runtimeconfig.json
+C:\Visual Studio\DomashkaKod\dzC#2\bin\Debug\net7.0\dzC#2.dll
+C:\Visual Studio\DomashkaKod\dzC#2\bin\Debug\net7.0\dzC#2.pdb
+C:\Visual Studio\DomashkaKod\dzC#2\obj\Debug\net7.0\dzC#2.csproj.AssemblyReference.cache
+C:\Visual Studio\DomashkaKod\dzC#2\obj\Debug\net7.0\dzC#2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio\DomashkaKod\dzC#2\obj\Debug\net7.0\dzC#2.AssemblyInfoInputs.cache
+C:\Visual Studio\DomashkaKod\dzC#2\obj\Debug\net7.0\dzC#2.AssemblyInfo.cs
+C:\Visual Studio\DomashkaKod\dzC#2\obj\Debug\net7.0\dzC#2.csproj.CoreCompileInputs.cache
+C:\Visual Studio\DomashkaKod\dzC#2\obj\Debug\net7.0\dzC#2.dll
+C:\Visual Studio\DomashkaKod\dzC#2\obj\Debug\net7.0\refint\dzC#2.dll
+C:\Visual Studio\DomashkaKod\dzC#2\obj\Debug\net7.0\dzC#2.pdb
+C:\Visual Studio\DomashkaKod\dzC#2\obj\Debug\net7.0\dzC#2.genruntimeconfig.cache
+C:\Visual Studio\DomashkaKod\dzC#2\obj\Debug\net7.0\ref\dzC#2.dll
