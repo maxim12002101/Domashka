@@ -1,0 +1,15 @@
+C:\Visual Studio\DomashkaKod\DZ6seminar\bin\Debug\net7.0\DZ6seminar.exe
+C:\Visual Studio\DomashkaKod\DZ6seminar\bin\Debug\net7.0\DZ6seminar.deps.json
+C:\Visual Studio\DomashkaKod\DZ6seminar\bin\Debug\net7.0\DZ6seminar.runtimeconfig.json
+C:\Visual Studio\DomashkaKod\DZ6seminar\bin\Debug\net7.0\DZ6seminar.dll
+C:\Visual Studio\DomashkaKod\DZ6seminar\bin\Debug\net7.0\DZ6seminar.pdb
+C:\Visual Studio\DomashkaKod\DZ6seminar\obj\Debug\net7.0\DZ6seminar.csproj.AssemblyReference.cache
+C:\Visual Studio\DomashkaKod\DZ6seminar\obj\Debug\net7.0\DZ6seminar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio\DomashkaKod\DZ6seminar\obj\Debug\net7.0\DZ6seminar.AssemblyInfoInputs.cache
+C:\Visual Studio\DomashkaKod\DZ6seminar\obj\Debug\net7.0\DZ6seminar.AssemblyInfo.cs
+C:\Visual Studio\DomashkaKod\DZ6seminar\obj\Debug\net7.0\DZ6seminar.csproj.CoreCompileInputs.cache
+C:\Visual Studio\DomashkaKod\DZ6seminar\obj\Debug\net7.0\DZ6seminar.dll
+C:\Visual Studio\DomashkaKod\DZ6seminar\obj\Debug\net7.0\refint\DZ6seminar.dll
+C:\Visual Studio\DomashkaKod\DZ6seminar\obj\Debug\net7.0\DZ6seminar.pdb
+C:\Visual Studio\DomashkaKod\DZ6seminar\obj\Debug\net7.0\DZ6seminar.genruntimeconfig.cache
+C:\Visual Studio\DomashkaKod\DZ6seminar\obj\Debug\net7.0\ref\DZ6seminar.dll
